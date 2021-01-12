@@ -1,0 +1,53 @@
+bedroom_choices = {
+  '1':1,
+  '2':2,
+  '3':3,
+  '4':4,
+  '5':5,
+  '6':6,
+  '7':7,
+  '8':8,
+  '9':9,
+  '10':10
+  }
+
+state_choices = {
+
+  'Abia':'Abia',
+  'Adamawa':'Adamawa' ,
+  'Akwa Ibom':'Akwa Ibom',
+  'Anambra':'Anambra',
+  'Bauchi':'Bauchi',
+  'Bayelsa':'Bayelsa',
+  'Benue':'Benue',
+  'Borno':'Borno',
+  'Cross River':'Cross River',
+  'Delta':'Delta',
+  'Edo':'Edo',
+  'Ekiti':'Ekiti',
+  'Enugu':'Enugu',
+  'Gombe':'Gombe',
+  'Imo':'Imo',
+  'Jigawa':'Jigawa',
+  'Kaduna':'Kaduna',
+  'Kano':'Kano',
+  'Katsina':'Katsina',
+  'Kebbi':'Kebbi',
+  'Kogi':'Kogi',
+  'Kwara':'Kwara',
+  'Lagos':'Lagos',
+  'Nasarawa':'Nasarawa',
+  'Niger':'Niger',
+  'Ogun':'Ogun',
+  'Ondo':'Ondo',
+  'Osun':'Osun',
+  'Oyo':'Oyo',
+  'Plateau':'Plateau',
+  'Rivers':'Rivers',
+  'Sokoto':'Sokoto',
+  'Taraba':'Taraba',
+  'Yobe':'Yobe',
+  'Zamfara':'Zamfara',
+  'FCT':'F.C.T'     
+}
+
